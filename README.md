@@ -108,7 +108,7 @@ The Power BI dashboard provides an **executive-level churn monitoring view**, al
 ---
 
 ## 📁 Project Structure
-
+```
 customer-churn-intelligence/
 ├── data/
 │   ├── raw/
@@ -126,6 +126,7 @@ customer-churn-intelligence/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
