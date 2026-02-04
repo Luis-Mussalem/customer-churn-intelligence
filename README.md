@@ -109,8 +109,23 @@ The Power BI dashboard provides an **executive-level churn monitoring view**, al
 
 ## 📁 Project Structure
 
-The complete project structure is documented here:  
-➡️ [View project structure](STRUCTURE.md)
+customer-churn-intelligence/
+├── data/
+│   ├── raw/
+│   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   ├── processed/
+│   │   └── churn_processed.csv
+│   └── bi/
+│       └── churn_bi_dataset.csv
+├── notebooks/
+│   └── churn_analysis.ipynb
+├── powerbi/
+│   └── customer_churn_intelligence.pbix
+├── images/
+│   └── churn_dashboard.png
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ---
 
@@ -122,5 +137,3 @@ The complete project structure is documented here:
 - Delivered a full analytics workflow from raw data to executive storytelling.
 
 ---
-
-*This project demonstrates my ability to structure analytical problems,ensure data quality, and communicate insights in a business-oriented and decision-driven manner.*
