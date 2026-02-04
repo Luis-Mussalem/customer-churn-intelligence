@@ -107,9 +107,22 @@ The Power BI dashboard provides an **executive-level churn monitoring view**, al
 
 ---
 
+## 🧠 Key Takeaways
+
+- Prepared a **BI-ready dataset** with engineered features such as churn flags and tenure segments to support interactive dashboards.
+- Applied best practices by separating **ETL logic** from **analytical calculations**.
+- Translated churn drivers into actionable business insights.
+- Delivered a full analytics workflow from raw data to executive storytelling.
+
+---
+
+*This project demonstrates my ability to structure analytical problems,ensure data quality, and communicate insights in a business-oriented and decision-driven manner.*
+
+<!-- STRUCTURE_START -->
+
 ## 📁 Project Structure
 
-```text
+<pre>
 customer-churn-intelligence/
 ├── data/
 │   ├── raw/
@@ -127,16 +140,6 @@ customer-churn-intelligence/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+</pre>
 
----
-
-## 🧠 Key Takeaways
-
-- Prepared a **BI-ready dataset** with engineered features such as churn flags and tenure segments to support interactive dashboards.
-- Applied best practices by separating **ETL logic** from **analytical calculations**.
-- Translated churn drivers into actionable business insights.
-- Delivered a full analytics workflow from raw data to executive storytelling.
-
----
-
-*This project demonstrates my ability to structure analytical problems,ensure data quality, and communicate insights in a business-oriented and decision-driven manner.*
+<!-- STRUCTURE_END -->
