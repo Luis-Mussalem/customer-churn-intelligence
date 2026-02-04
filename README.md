@@ -136,7 +136,6 @@ customer-churn-intelligence/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
 
 ---
 
